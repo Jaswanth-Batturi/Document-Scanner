@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 from datetime import datetime
 
-path = "images/document.jpg"    # path of the document image
+path = "Images/document.jpg"    # path of the document image
 
 widthImg = 480
 heightImg = 640
